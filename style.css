@@ -2,6 +2,7 @@ body{
     color: white;
     background: black;
     margin: 0px;
+    font-family: "Roboto", sans-serif;
 }
 header{
     border-bottom: solid 2px rgb(42, 122, 228);
@@ -15,4 +16,7 @@ section {
     padding-bottom: 80px;
     display: flex;
     justify-content: center;
+}
+.chamada-texto {
+    margin-right: 5%;
 }
